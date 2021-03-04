@@ -4,16 +4,26 @@ Part 1 :
 
 Starting with Webstorm :
 
-Task : Run WebStorm installer and follow wizard steps. Feature : Installs WebStorm on your PC.
-Task : Launch Application and create new project. Feature : Opens WebStorm and opens a new project.
-Task : START CODING. Feature : Yay, you are programming!
+- Task : Run WebStorm installer and follow wizard steps. 
+    Feature : Installs WebStorm on your PC.
+- Task : Launch Application and create new project. 
+    Feature : Opens WebStorm and opens a new project.
+- Task : START CODING. 
+    Feature : Yay, you are programming!
+
 How to use Github :
 
-Task : Open github and create account. Feature : Opens new account.
-Task : Create new repository. Feature : Makes a new place for all of your code files to go
-Task : Start coding in created files or upload files from existing code. Feature : Commits new code or adds new files with code.
-Task : Commit all files and make repository public. Feature : Saves all latest changes and makes everyone able to see your code.
-Task : Launch project Feature : Opens up project.
+- Task : Open github and create account.
+    Feature : Opens new account.
+- Task : Create new repository. 
+    Feature : Makes a new place for all of your code files to go
+- Task : Start coding in created files or upload files from existing code. 
+    Feature : Commits new code or adds new files with code.
+- Task : Commit all files and make repository public. 
+    Feature : Saves all latest changes and makes everyone able to see your code.
+- Task : Launch project 
+    Feature : Opens up project.
+
 Part 2 (Glossary) :
 
 branch - statement to execute a different sequence in the code.
